@@ -1,2 +1,2 @@
 # Bi-directional A* Algorithm
- This code involves bidirectional A* Path Planning Algorithm for coursework in ENPM 662 
+ This code involves bidirectional A* Path Planning Algorithm for a Point Robot
